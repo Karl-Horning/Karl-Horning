@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning **React** and **MongoDB**
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me here: [linkedin.com/in/karl-horning/](https://www.linkedin.com/in/karl-horning/)
+- 📈 You can view some of my work here or on [CodePen](https://codepen.io/karlhorning)
 
 <!---
 Karl-Horning/Karl-Horning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
