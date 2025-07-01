@@ -1,6 +1,6 @@
-![Hi there, I'm Karl](./src/img/header.png)
-
 # Hello there! I'm Karl 👋
+
+![Hi there, I'm Karl](./src/img/repo-header.webp)
 
 I'm a **full-stack JavaScript developer and learning technologist** who loves building better digital learning experiences through code and collaboration.
 
@@ -30,6 +30,7 @@ When I'm not coding, I enjoy building apps and automation tools with JavaScript 
 
 ## 🔗 Connect with Me
 
+- 🗂️ [Portfolio](https://karl-horning.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/karl-horning/)
 - 🐙 [GitHub](https://github.com/Karl-Horning)
 - ✍️ [CodePen](https://codepen.io/karlhorning)
