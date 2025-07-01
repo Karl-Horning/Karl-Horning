@@ -10,7 +10,7 @@ I'm a **full-stack JavaScript developer and learning technologist** who loves bu
 
 I'm a self-taught full-stack developer and learning technologist with **over 15 years** of experience bridging education and software engineering across the UK and EU. I combine my hands-on development skills with insights into pedagogy to create scalable, user-centric digital learning platforms.
 
-Currently, I work at **Imperial College London**, where I'm driving the rollout of a unified learning management system (LMS). I collaborate across faculties, write user stories, test APIs, and shape training strategies to ensure that technology truly serves educators and learners.
+Currently, I work at **Imperial College London**, where I'm driving the rollout of a unified [learning management system (LMS)](https://www.imperial.ac.uk/about/education/our-projects/learning-management-system/). I collaborate across faculties, write user stories, test APIs, and shape training strategies to ensure that technology truly serves educators and learners.
 
 Before that, I enhanced a global EdTech LMS that supported **over 700,000 users**. I optimised GraphQL APIs, automated tests, and delivered high-availability systems that learners worldwide rely on every day.
 
@@ -20,7 +20,7 @@ When I'm not coding, I enjoy building apps and automation tools with JavaScript 
 
 ## 🛠️ Tech Stack I Enjoy Working With
 
-- 🖥️ **Languages & Frameworks:**Node.js, JavaScript (ES6+), TypeScript, React, Next.js, Python, Electron  
+- 🖥️ **Languages & Frameworks:** Node.js, JavaScript (ES6+), TypeScript, React, Next.js, Python, Electron  
 - 🗄️ **Databases & APIs:** PostgreSQL, MongoDB, GraphQL, REST APIs, Sequelize, Prisma  
 - 🧪 **Testing & Tools:** Postman, Mocha, API testing, Swagger, Agile workflows  
 - 🔧 **Dev & Collaboration:** Git/GitHub, CI/CD, Scrum/Kanban, Confluence, Markdown  
