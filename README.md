@@ -3,8 +3,6 @@
 I'm a **full-stack JavaScript developer** and **learning technologist** from the UK.  
 I love solving real-world problems through code — especially around APIs, data, and accessible interfaces that make learning more inclusive.
 
----
-
 ## What I Do
 
 I bridge education and software engineering, building reliable, user-centred systems that make technology work for people.  
@@ -12,8 +10,6 @@ I bridge education and software engineering, building reliable, user-centred sys
 At **Imperial College London**, I'm helping roll out a unified [Learning Management System (LMS)](https://www.imperial.ac.uk/about/education/our-projects/learning-management-system/), collaborating across faculties to integrate tools, streamline workflows, and improve accessibility.  
 
 Previously, I worked at **[Learnlight](https://www.karlhorning.dev/projects/learnlight-platform)**, where I helped optimise the GraphQL backend that powers learning for **700,000+ users in 180+ countries** — reducing query loads, improving stability, and shaping developer experience.
-
----
 
 ## Tech I Enjoy Working With
 
@@ -50,8 +46,6 @@ Previously, I worked at **[Learnlight](https://www.karlhorning.dev/projects/lear
 ![Canvas LMS](https://img.shields.io/badge/Canvas-CC0000?logo=instructure&logoColor=fff)
 ![Moodle](https://img.shields.io/badge/Moodle-F98012?logo=moodle&logoColor=fff)
 
----
-
 ## Featured Work
 
 **[Learnlight Platform & Mobile Apps](https://www.karlhorning.dev/projects/learnlight-platform)**  
@@ -68,16 +62,12 @@ It achieves **100% accessibility (WCAG 2.2 AA)** and **99–100 Lighthouse score
 Accredited portfolio demonstrating my practice as a Learning Technologist — reflecting on professional experience, evidence, and impact across education and technology.  
 **Focus:** professional development, reflection, and accessibility in digital learning.
 
----
-
 ## Values & Approach
 
 - **Accessibility first** — design and code should include everyone  
 - **Clarity over complexity** — simplicity scales better than cleverness  
 - **Collaboration matters** — good systems are built by teams, not silos  
 - **Documentation is design** — consistency and predictability build trust  
-
----
 
 ## Connect
 
@@ -86,14 +76,10 @@ Accredited portfolio demonstrating my practice as a Learning Technologist — re
 - [GitHub](https://github.com/Karl-Horning)  
 - [CodePen](https://codepen.io/karlhorning)
 
----
-
 ## Now
 
 - Experimenting with **Vite + Electron** for an image optimiser  
 - Building a Markdown-based **writing tracker** app  
 - Exploring **GraphQL performance** and **Next.js accessibility**
-
----
 
 **"Technology should make learning easier — not harder."** If you share that view, feel free to [connect](https://www.linkedin.com/in/karl-horning/) or explore my [projects](https://www.karlhorning.dev/projects).
