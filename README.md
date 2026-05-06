@@ -41,7 +41,7 @@ endpoints using DataLoader, cutting resolver response times by up to 70%.
 
 **Focus:** API performance, backend architecture, developer experience.
 
-### [Transform Text](https://karlhorning.dev/transform-text)
+### [Transform Text Extension](https://www.karlhorning.dev/projects/transform-text)
 A browser extension available on Chrome, Edge, and Firefox — approved first
 time on all three stores. Built with TypeScript, Manifest V3, and Vitest.
 
