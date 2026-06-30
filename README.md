@@ -1,6 +1,6 @@
 # Hello, I'm Karl 👋
 
-Backend engineer specialising in Node.js, TypeScript, and SQL, with experience
+Developer specialising in Node.js, TypeScript, and SQL, with experience
 building accessible, well-documented systems used by hundreds of thousands of
 people worldwide.
 
